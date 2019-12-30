@@ -14,5 +14,10 @@ let allWagesFor = function () {
 }
 
 let createEmployeeRecord = function(){
-  
+  let firstName;
+let familyName;
+let title;
+let payPerHour;
+let timeInEvents;
+let timeOutEvents;
 }
